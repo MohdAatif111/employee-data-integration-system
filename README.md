@@ -1,30 +1,42 @@
-# employee-data-integration-system
-A sample project demonstrating employee data integration, reporting workflows, SQL development, and Oracle Fusion/OIC concepts.
-# Employee Data Integration & Reporting System
+# Employee Data Integration System
 
 ## Project Overview
-This project demonstrates employee data integration and reporting workflows using SQL, Oracle Fusion concepts, REST APIs, and Oracle Integration Cloud (OIC).
+This project demonstrates employee data integration and reporting workflows using SQL and PL/SQL. It includes employee data management, salary processing, reporting queries, and stored procedures for database operations.
 
 ## Technologies Used
 - SQL
+- PL/SQL
+- Oracle Database
 - Oracle Fusion Concepts
 - Oracle Integration Cloud (OIC)
 - REST APIs
 - BI Publisher
 
 ## Features
-- Employee data management
-- Sample integration workflows
-- SQL queries and reports
-- API request and response examples
-- Reporting and analytics documentation
+- Employee Data Management
+- Salary Processing
+- Employee Reporting
+- Stored Procedures
+- Department-wise Analysis
+- Database Query Optimization
 
-## Repository Structure
-- docs/ - Project documents and diagrams
-- sql/ - SQL scripts and queries
-- api/ - Sample API payloads
-- reports/ - Sample reports and dashboards
-- screenshots/ - Project screenshots and flow diagrams
+## Project Files
+- employee_queries.sql
+- integration_procedures.sql
+- employee_reports.sql
+
+## Sample Reports
+- Employee Salary Report
+- Department-wise Employee Count
+- Highest Paid Employee Report
+
+## Skills Demonstrated
+- SQL Queries
+- PL/SQL Procedures
+- Data Integration
+- Reporting & Analytics
+- Database Management
+- Oracle Fusion Concepts
 
 ## Author
 Mohd Aatif
